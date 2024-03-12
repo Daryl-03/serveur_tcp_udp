@@ -1,0 +1,3 @@
+/home/naku/Documents/eilco/ing1/reseaux/tds/serveur-tcp-udp/cmake-build-debug/CMakeFiles/serveur_tcp_udp.dir
+/home/naku/Documents/eilco/ing1/reseaux/tds/serveur-tcp-udp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/naku/Documents/eilco/ing1/reseaux/tds/serveur-tcp-udp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
